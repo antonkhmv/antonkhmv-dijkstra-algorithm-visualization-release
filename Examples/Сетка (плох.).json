@@ -1,0 +1,10 @@
+{"AdjacentEdges":[[{"Node":1,"Weight":null},{"Node":2,"Weight":null}],[{"Node":3,"Weight":null},{"Node":4,"Weight":null}],[{"Node":3,"Weight":null},{"Node":8,"Weight":null}],[{"Node":5,"Weight":null},{"Node":7,"Weight":null}],[{"Node":5,"Weight":null},{"Node":15,"Weight":null}],[{"Node":6,"Weight":null},{"Node":14,"Weight":null}],[{"Node":13,"Weight":null},{"Node":11,"Weight":null}],[{"Node":6,"Weight":null},{"Node":10,"Weight":null}],[{"Node":7,"Weight":null},{"Node":9,"Weight":null}],[{"Node":10,"Weight":null},{"Node":24,"Weight":null}],[{"Node":11,"Weight":null},{"Node":23,"Weight":null}],[{"Node":12,"Weight":null},{"Node":22,"Weight":null}],[{"Node":19,"Weight":null},{"Node":21,"Weight":null}],[{"Node":12,"Weight":null},{"Node":18,"Weight":null}],[{"Node":13,"Weight":null},{"Node":17,"Weight":null}],[{"Node":14,"Weight":null},{"Node":16,"Weight":null}],[{"Node":17,"Weight":null}],[{"Node":18,"Weight":null}],[{"Node":19,"Weight":null}],[{"Node":20,"Weight":null}],[],[{"Node":20,"Weight":null}],[{"Node":21,"Weight":null}],[{"Node":22,"Weight":null}],[{"Node":23,"Weight":null}]],"Nodes":[{"_x":200,"_y":150},{"_x":200,"_y":270},{"_x":320,"_y":150},{"_x":320,"_y":270},{"_x":200,"_y":390},{"_x":320,"_y":390},{"_x":440,"_y":390},{"_x":440,"_y":270},{"_x":440,"_y":150},{"_x":560,"_y":150},{"_x":560,"_y":270},{"_x":560,"_y":390},{"_x":560,"_y":510},{"_x":440,"_y":510},{"_x":320,"_y":510},{"_x":200,"_y":510},
+{"_x":200,"_y":630},
+{"_x":320,"_y":630},
+{"_x":440,"_y":630},
+{"_x":560,"_y":630},
+{"_x":680,"_y":630},
+{"_x":680,"_y":510},
+{"_x":680,"_y":390},
+{"_x":680,"_y":270},
+{"_x":680,"_y":150}],"SelectedNode":0}

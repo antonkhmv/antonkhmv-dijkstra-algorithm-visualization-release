@@ -1,0 +1,9 @@
+{"AdjacentEdges":
+[[{"Node":100,"Weight":null}],
+[{"Node":3,"Weight":null}],
+[{"Node":1,"Weight":null}],
+[{"Node":4,"Weight":null}, {"Node":2,"Weight":null}],
+[{"Node":0,"Weight":null}]],
+"Nodes":[{"_x":239,"_y":223},
+{"_x":449,"_y":435},{"_x":193,"_y":283},
+{"_x":273,"_y":457},{"_x":385,"_y":237}],"SelectedNode":-1}

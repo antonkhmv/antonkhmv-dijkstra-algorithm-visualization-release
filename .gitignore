@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+!Dijkstra_Algorithm_Visualization.exe
+!Dijkstra_Algorithm_Visualization.pdb
+!Drawing.dll
+!Drawing.pdb
+
 # User-specific files
 *.rsuser
 *.suo
